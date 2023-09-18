@@ -2,10 +2,10 @@ Volume Control using OpenCV
 Overview
 Welcome to Volume Control using OpenCV, a Python application that empowers you to take control of the audio in your video files. Whether you want to amplify the excitement of a concert video or tone down background noise in your vlogs, this application provides a simple and efficient way to fine-tune your audio experience without altering the visuals.
 
-How it Works
+##How it Works
 This application harnesses the power of the OpenCV library to manipulate audio in video files. By interfacing with OpenCV, it can seamlessly adjust audio volume while preserving the video quality.
 
-Prerequisites
+##Prerequisites
 Before you dive into the world of audio enhancement, make sure you have the following prerequisites installed:
 
 Python 3.x: If you don't have Python installed, you can download it from Python's official website.
@@ -32,7 +32,7 @@ Follow the on-screen instructions to specify the input video file and the desire
 
 Sit back and let the magic happen! Your adjusted video will be saved with "_adjusted" appended to the original file name.
 
-Acknowledgments
+##Acknowledgments
 This project was born out of the need to easily fine-tune audio volume in videos for various purposes. We recognize that audio quality can make or break the viewer's experience, and we aim to put the power in your hands.
 
 Customize and Contribute
